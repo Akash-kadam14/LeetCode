@@ -11,12 +11,14 @@ leet code and GFG Problems and solutions
 | [0027-remove-element](https://github.com/Akash-kadam14/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Akash-kadam14/LeetCode/tree/master/0035-search-insert-position) |
 | [0219-contains-duplicate-ii](https://github.com/Akash-kadam14/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Akash-kadam14/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akash-kadam14/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Akash-kadam14/LeetCode/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/Akash-kadam14/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Akash-kadam14/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,4 +46,13 @@ leet code and GFG Problems and solutions
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Akash-kadam14/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Akash-kadam14/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Akash-kadam14/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Akash-kadam14/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
