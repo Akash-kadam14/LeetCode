@@ -13,6 +13,7 @@ leet code and GFG Problems and solutions
 | [0219-contains-duplicate-ii](https://github.com/Akash-kadam14/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Akash-kadam14/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Akash-kadam14/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1755-defuse-the-bomb](https://github.com/Akash-kadam14/LeetCode/tree/master/1755-defuse-the-bomb) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ leet code and GFG Problems and solutions
 | [0219-contains-duplicate-ii](https://github.com/Akash-kadam14/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Akash-kadam14/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Akash-kadam14/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1755-defuse-the-bomb](https://github.com/Akash-kadam14/LeetCode/tree/master/1755-defuse-the-bomb) |
 ## Sorting
 |  |
 | ------- |
