@@ -21,6 +21,7 @@ leet code and GFG Problems and solutions
 | [0013-roman-to-integer](https://github.com/Akash-kadam14/LeetCode/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/Akash-kadam14/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Akash-kadam14/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1873-longest-nice-substring](https://github.com/Akash-kadam14/LeetCode/tree/master/1873-longest-nice-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@ leet code and GFG Problems and solutions
 | ------- |
 | [0013-roman-to-integer](https://github.com/Akash-kadam14/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Akash-kadam14/LeetCode/tree/master/0014-longest-common-prefix) |
+| [1873-longest-nice-substring](https://github.com/Akash-kadam14/LeetCode/tree/master/1873-longest-nice-substring) |
 ## Trie
 |  |
 | ------- |
@@ -51,6 +53,7 @@ leet code and GFG Problems and solutions
 | [0594-longest-harmonious-subsequence](https://github.com/Akash-kadam14/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Akash-kadam14/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1755-defuse-the-bomb](https://github.com/Akash-kadam14/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1873-longest-nice-substring](https://github.com/Akash-kadam14/LeetCode/tree/master/1873-longest-nice-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -59,4 +62,12 @@ leet code and GFG Problems and solutions
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Akash-kadam14/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1873-longest-nice-substring](https://github.com/Akash-kadam14/LeetCode/tree/master/1873-longest-nice-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1873-longest-nice-substring](https://github.com/Akash-kadam14/LeetCode/tree/master/1873-longest-nice-substring) |
 <!---LeetCode Topics End-->
