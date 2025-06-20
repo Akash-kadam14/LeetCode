@@ -10,6 +10,7 @@ leet code and GFG Problems and solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akash-kadam14/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Akash-kadam14/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Akash-kadam14/LeetCode/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/Akash-kadam14/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Akash-kadam14/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Akash-kadam14/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Akash-kadam14/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -31,6 +32,7 @@ leet code and GFG Problems and solutions
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Akash-kadam14/LeetCode/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/Akash-kadam14/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +51,7 @@ leet code and GFG Problems and solutions
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Akash-kadam14/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Akash-kadam14/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Akash-kadam14/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Akash-kadam14/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -70,4 +73,8 @@ leet code and GFG Problems and solutions
 |  |
 | ------- |
 | [1873-longest-nice-substring](https://github.com/Akash-kadam14/LeetCode/tree/master/1873-longest-nice-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Akash-kadam14/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
